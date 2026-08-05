@@ -1,3 +1,1 @@
-Uma plataforma online de hospedagem de código-fonte e arquivos que serve para
-armazenar projetos, controlar versões de software e facilitar a comunicação entre membros
-de uma equipe.
+git init, git clone, git status, git add, git branch
