@@ -1,3 +1,2 @@
- É a prática de registrar, acompanhar e gerenciar todas as alterações feitas em um
-arquivo ou código, permitindo trabalhar em equipe, recuperar versões anteriores e guardar
-um histórico claro.
+Um sistema de controle de versão de código aberto, muito utilizado para rastrear
+mudanças em arquivos, organizar códigos e facilitar trabalhos em equipe.
