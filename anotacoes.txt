@@ -1,2 +1,3 @@
-Um sistema de controle de versão de código aberto, muito utilizado para rastrear
-mudanças em arquivos, organizar códigos e facilitar trabalhos em equipe.
+Uma plataforma online de hospedagem de código-fonte e arquivos que serve para
+armazenar projetos, controlar versões de software e facilitar a comunicação entre membros
+de uma equipe.
