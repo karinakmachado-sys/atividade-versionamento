@@ -1,0 +1,3 @@
+ É a prática de registrar, acompanhar e gerenciar todas as alterações feitas em um
+arquivo ou código, permitindo trabalhar em equipe, recuperar versões anteriores e guardar
+um histórico claro.
